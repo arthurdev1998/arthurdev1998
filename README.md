@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá, me chamo Arthur Mendes  👋
 
-<!--
-**arthurdev1998/arthurdev1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Educação 🏫
+👨‍💻 Cursando Análise e Desenvolvimento de Sistemas - Faculdade Uninassau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+O que estou fazendo no momento?
+🎬 Atualmente estou aperfeiçoando e estudando Java com Spring boot 
+
+Principais Skills ⚙️
+Front-end: ANGULAR TYPESCRIPT JAVASCRIPT HTML CSS
+
+Back-end: JAVA Spring, C# .Net
